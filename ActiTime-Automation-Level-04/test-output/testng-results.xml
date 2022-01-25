@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-19T18:11:13Z" name="ActiTime Automation" finished-at="2022-01-19T18:11:56Z" duration-ms="42852">
+    <groups>
+    </groups>
+    <test started-at="2022-01-19T18:11:13Z" name="Scenarios" finished-at="2022-01-19T18:11:56Z" duration-ms="42852">
+      <class name="com.sgtesting.actitime.driverscript.DriverScript">
+        <test-method is-config="true" signature="loadFiles()[pri:0, instance:com.sgtesting.actitime.driverscript.DriverScript@2beee7ff]" started-at="2022-01-19T23:41:13Z" name="loadFiles" finished-at="2022-01-19T23:41:13Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadFiles -->
+        <test-method signature="executeTestScenarios()[pri:0, instance:com.sgtesting.actitime.driverscript.DriverScript@2beee7ff]" started-at="2022-01-19T23:41:13Z" name="executeTestScenarios" finished-at="2022-01-19T23:41:56Z" duration-ms="42831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeTestScenarios -->
+      </class> <!-- com.sgtesting.actitime.driverscript.DriverScript -->
+    </test> <!-- Scenarios -->
+  </suite> <!-- ActiTime Automation -->
+</testng-results>
